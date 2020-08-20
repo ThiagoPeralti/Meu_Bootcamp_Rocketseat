@@ -1,0 +1,11 @@
+FINALMENTE O PROJETO TÁ ANDANDOOOOO!!!!!
+
+Depois de apanhar muito tentando fazer um ambiente pra codar decentemente eu finalmente consegui andar um pouco depois de muita pesquisa.
+
+O Bootcamp da Rocketseat é extremamente didático porém é altamente focado em macOS e um pouco no Linux, fazendo com que quem tem Windows realmente fique na mão e tendo que se virar pra adaptar as ferramentas.
+Devido a problemas com meu teclado na minha distro em dual boot do Linux eu tive que realmente me adaptar ao Windows... o que estava quase fora de cogitação no Bootcamp, mas tudo se dá um jeito.
+
+Segue o link de onde consegui adaptar a maioria das ferramentas utilizadas no Linux para Windows utilizando o Bash On Ubuntu(também conhecido como WSL, virtualizando um terminal Linux dentro do windows sem VM):
+https://medium.com/@gusflopes86/ambiente-de-desenvolvimento-react-e-react-native-no-windows-com-wsl-f505906d636c
+
+A partir de agora não há mais freios para o projeto React Native, "bora codar!"
